@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <link rel="stylesheet" href="/css/style.css">
+  <title>{{ page.title }}</title>
+</head>
+
+<body>
+  {% include header.html %}
+  <main class="container">
+    <p class="date"><small>{{ page.date | date_to_string }}</small></p>
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+
+</html>
