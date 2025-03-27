@@ -1,7 +1,7 @@
 ---
 ---
 @use "pico" with (
-  $theme-color: "amber",
+  $theme-color: "orange",
   
   $breakpoints: (
 
@@ -58,10 +58,15 @@
   color: var(--pico-h3-color);
 }
 
+a {
+  text-decoration: none;
+}
+
 header {
   nav {
-    h3 a {
+    h2 a {
       letter-spacing: normal;
+      text-transform: none;
     }
     a {
       text-transform: uppercase;
