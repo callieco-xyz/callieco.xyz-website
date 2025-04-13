@@ -23,7 +23,7 @@ Each kit is a multi-part, 28mm kit, featuring both masculine and feminine body s
 
 One thing I need to start doing soon is making test prints, working in 3d is fine but I find that if you don't constantly connect with the physical objects your sense of scale really gets out of tune. It's too easy to start focusing in on tiny details that just wont show up on the print.
 
-![image](\images\2025\hf-march-heads2.jpg "A 3d render showing a variety of heads")
+![image](/images/2025/hf-march-heads2.jpg "A 3d render showing a variety of heads")
 
 ## Rules
 
