@@ -1,6 +1,6 @@
 ---
 title: Always Changing My Mind
-category: Personal Stuff
+category: Personal
 ---
 
 The closer I get to launching my game, and of a few plans coming together, the more the future plans wiggle around. I feel like I should make a point of saying, to myself as much as anyone reading this, that anything I say is "in the works" is definitely subject to change.

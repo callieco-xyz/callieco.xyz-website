@@ -1,6 +1,6 @@
 ---
 title: April Game Update
-category: Renegade Minis Games
+category: Games
 ---
 
 Notice this post is not called "Hyperspace Frontier update"... I realised the name is too similar to some other games out there. Namely Hyperlight Drifter and a miniatures game I just discovered called Hypersteel Nightmare (that looks really fun). I could stick with it but I am stopping to take stock and figure out where I am going, and that also means changing the name.

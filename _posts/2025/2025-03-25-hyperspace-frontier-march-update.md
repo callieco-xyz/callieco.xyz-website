@@ -1,6 +1,6 @@
 ---
 title: Hyperspace Frontier March '25 update
-category: Renegade Minis Games
+category: Games
 ---
 
 Since the blog is new I guess the only place I will have shared anything about my upcoming game is on social media, and that basically means hardly at all. I really don't post often enough and word limits make it hard to explain much. So in brief:
