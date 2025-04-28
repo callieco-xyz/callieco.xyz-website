@@ -1,6 +1,6 @@
 ---
 title: Hyperspace Frontier March '25 update
-category: My Games
+category: Renegade Minis Games
 ---
 
 Since the blog is new I guess the only place I will have shared anything about my upcoming game is on social media, and that basically means hardly at all. I really don't post often enough and word limits make it hard to explain much. So in brief:
@@ -19,7 +19,7 @@ So where am I up to?
 
 I felt like I was falling behind on getting kits done and that was true, but mostly I underestimated the number of parts I needed and my pace has picked up so I'm on track to have the 3 main kits done by the end of May.
 
-Each kit is a multi-part, 28mm kit, featuring both masculine and feminine body shapes, with loads of interchangeable parts. The first two are nearly complete: the Frontier Rangers, a western inspired kit with plenty of cowboy hats and fancy shooting irons, and the Wasteland Reavers, some post-apocalyptic scavengers with makeshift weapons and a brutal look. I haven't even started on the third kit: a mash up of sci-fi and fantasy/medieval knights.
+Each kit is a multi-part, 28mm kit, I want to make both masculine and feminine versions, with loads of interchangeable parts. The first two masculine ones are nearly complete: the Frontier Rangers, a western inspired kit with plenty of cowboy hats and fancy shooting irons, and the Wasteland Reavers, some post-apocalyptic scavengers with makeshift weapons and a brutal look. I haven't even started on the third kit: a mash up of sci-fi and fantasy/medieval knights.
 
 One thing I need to start doing soon is making test prints, working in 3d is fine but I find that if you don't constantly connect with the physical objects your sense of scale really gets out of tune. It's too easy to start focusing in on tiny details that just wont show up on the print.
 
