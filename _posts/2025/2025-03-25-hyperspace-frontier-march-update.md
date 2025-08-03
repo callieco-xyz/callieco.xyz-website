@@ -9,7 +9,7 @@ Since the blog is new I guess the only place I will have shared anything about m
 - The kits I'm making are all modular and are broadly compatible with other kits.
 - It's a sci-fi mash up all sorts of themes but players can make of it what they want.
 
-So where am I up to?
+So where am I up to? 
 
 ![image](\images\2025\hf-march-heads.jpg "A 3d render showing a variety of heads")
 
